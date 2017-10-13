@@ -1,6 +1,7 @@
 {
-  "app.css": "css/app-ae4ba9a6.css",
-  "app.js": "js/app.cefee203.js",
+  "app.css": "css/app-d85ca487.css",
+  "app.js": "js/app.bf896591.js",
+  "checkbox.js": "js/checkbox.406f95fb.js",
   "font\\fontello.eot?58619503": "font/fontello-f6ce9b65.eot",
   "font\\fontello.ttf?58619503": "font/fontello-2f0ae4ba.ttf",
   "font\\iconfont.eot?t=1501224824656": "font/iconfont-8bd1f083.eot",
@@ -9,6 +10,6 @@
   "manifest.js": "js/manifest.d41d8cd9.js",
   "pagination.js": "js/pagination.ab4a77e6.js",
   "start.js": "js/start.4383db33.js",
-  "table.js": "js/table.00bdc832.js",
+  "table.js": "js/table.8afe1733.js",
   "vendors.js": "js/vendors.540b3ef5.js"
 }
