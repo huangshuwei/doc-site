@@ -1,15 +1,15 @@
 {
   "app.css": "css/app-d1aba7f3.css",
-  "app.js": "js/app.c66dd3fa.js",
-  "checkbox.js": "js/checkbox.406f95fb.js",
+  "app.js": "js/app.b75f9e66.js",
+  "checkbox.js": "js/checkbox.4b8d18f0.js",
   "font\\fontello.eot?58619503": "font/fontello-f6ce9b65.eot",
   "font\\fontello.ttf?58619503": "font/fontello-2f0ae4ba.ttf",
   "font\\iconfont.eot?t=1501224824656": "font/iconfont-8bd1f083.eot",
   "font\\iconfont.ttf?t=1501224824656": "font/iconfont-2045fde7.ttf",
   "images\\vue-easytable.gif": "images/vue-easytable-e9db3570.gif",
   "manifest.js": "js/manifest.d41d8cd9.js",
-  "pagination.js": "js/pagination.ab4a77e6.js",
+  "pagination.js": "js/pagination.1d12d9d1.js",
   "start.js": "js/start.4383db33.js",
-  "table.js": "js/table.e7813782.js",
+  "table.js": "js/table.c88f845b.js",
   "vendors.js": "js/vendors.540b3ef5.js"
 }
