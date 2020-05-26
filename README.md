@@ -1,2 +1,5 @@
 # doc-site
-vue-easytable:http://doc.huangsw.com/vue-easytable/app.html
+- [vue-easytable demo](http://doc.huangsw.com/vue-easytable/app.html
+)
+- [theme-switcher-cli-demo](http://doc.huangsw.com/theme-switcher-cli-demo/
+)
