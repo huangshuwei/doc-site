@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "./static/js/main.4feda197.chunk.js",
+    "main.js.map": "./static/js/main.4feda197.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5d41aa64.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5d41aa64.js.map",
+    "static/js/2.51a6b9d2.chunk.js": "./static/js/2.51a6b9d2.chunk.js",
+    "static/js/2.51a6b9d2.chunk.js.map": "./static/js/2.51a6b9d2.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.2de0325a2b49d7065f1357edeee9f244.js": "./precache-manifest.2de0325a2b49d7065f1357edeee9f244.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.51a6b9d2.chunk.js.LICENSE.txt": "./static/js/2.51a6b9d2.chunk.js.LICENSE.txt",
+    "theme-black.css": "./theme-black.css",
+    "theme-black.css.map": "./theme-black.css.map",
+    "theme-blue.css": "./theme-blue.css",
+    "theme-blue.css.map": "./theme-blue.css.map",
+    "theme-orange.css": "./theme-orange.css",
+    "theme-orange.css.map": "./theme-orange.css.map",
+    "theme-red.css": "./theme-red.css",
+    "theme-red.css.map": "./theme-red.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d41aa64.js",
+    "static/js/2.51a6b9d2.chunk.js",
+    "static/js/main.4feda197.chunk.js"
+  ]
+}
