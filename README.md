@@ -1,5 +1,9 @@
 # doc-site
-- [vue-easytable demo](http://doc.huangsw.com/vue-easytable/app.html
+- [vue-easytable](http://doc.huangsw.com/vue-easytable/
 )
-- [theme-creator-cli-demo](http://doc.huangsw.com/theme-creator-cli-demo/
+
+- [issue-template-generater](http://doc.huangsw.com/issue-template-generater/
+)
+
+- [theme-creator-cli](http://doc.huangsw.com/theme-creator-cli-demo/
 )
